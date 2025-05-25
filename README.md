@@ -1,4 +1,4 @@
-# Sigma-Ghost---Black-Hat
+# Sigma-Ghost-Black-Hat
 Sigma Ghost - Black Hat Reconnaissance Tool
 
 1. Overview
