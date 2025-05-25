@@ -36,7 +36,7 @@ Root privileges (for port scanning)
 Installation Steps:
 
 # Clone repository
-git clone https://github.com/sigma-cyber-ghost/sigma-ghost.git
+git clone https://github.com/sigma-cyber-ghost/Sigma-Ghost---Black-Hat.git
 cd sigma-ghost
 
 # Install dependencies
@@ -79,7 +79,7 @@ Argument	Description
 5. GitHub Repository Management
 Clone Repository
 
-git clone https://github.com/sigma-cyber-ghost/sigma-ghost.git
+git clone https://github.com/sigma-cyber-ghost/Sigma-Ghost---Black-Hat.git
 
 Contribution Guidelines
 Fork the repository
