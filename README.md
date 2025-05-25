@@ -37,7 +37,8 @@ Installation Steps:
 
 # Clone repository
 git clone https://github.com/sigma-cyber-ghost/Sigma-Ghost---Black-Hat.git
-cd sigma-ghost
+cd Sigma-Ghost---Black-Hat
+python3 sigma-recon.py --target webmail.iul.net
 
 # Install dependencies
 pip install -r requirements.txt
